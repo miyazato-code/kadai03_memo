@@ -1,0 +1,45 @@
+ body {
+            font-family: sans-serif;
+            text-align: center;
+        }
+        
+        #color-palette {
+            margin-bottom: 16px;
+        }
+        .color-box {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            margin: 8px;
+            border: 2px solid #ccc;
+            cursor: pointer;
+        }
+        .color-box.selected {
+            border-color: black;
+            border-width: 4px;
+        }
+        #canvas {
+            display: grid;
+            /* 10列のマス目を作成 */
+            grid-template-columns: repeat(10, 36px);
+            width: 360px; 
+            /* 10マス × 30px */
+            height: 360px;
+            border: 1px solid #333;
+            margin: 16px auto;
+        }
+        .cell {
+            width: 36px;
+            height: 36px;
+            background-color: #fff; 
+            border: 1px solid #eee; 
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+        /* コントロールボタンのスタイル */
+        button {
+            padding: 8px 16px;
+            margin: 8px;
+            cursor: pointer;
+            font-weight: bold;
+        }
