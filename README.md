@@ -5,7 +5,7 @@
 ピクセルで遊べる
 
 ③アプリのデプロイURL
-
+https://miyazato-code.github.io/kadai03_memo/
 
 ④アプリのログイン用IDまたはPassword（ある場合）
 ID: 今回なし
