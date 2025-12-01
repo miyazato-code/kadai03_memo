@@ -19,7 +19,8 @@ PW: 今回なし
 
 ⑦フリー項目（感想、シェアしたいこと等なんでも）
 [感想]
-Keep my email addresses privateをオンにするとローカルのGit設定を変更が必要
+githubでKeep my email addresses privateをオンにすると
+ローカルのGit設定を変更が必要
 git config user.email "<匿名のメールアドレス>"
 
 [参考記事]
