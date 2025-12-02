@@ -1,5 +1,5 @@
 
-        const GRID_SIZE = 10; // 縦横のマス目数
+        const GRID_SIZE = 12; // 縦横のマス目数
         const CANVAS_KEY = 'my_pixel_art_data'; // localStorageに保存するときのキー名
 
         // 描画に使う色の定義 (配列)
