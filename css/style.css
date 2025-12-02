@@ -29,8 +29,8 @@
             margin: 16px auto;
         }
         .cell {
-            width: 36px;
-            height: 36px;
+            width: 30px;
+            height: 30px;
             background-color: #fff; 
             border: 1px solid #eee; 
             box-sizing: border-box;
