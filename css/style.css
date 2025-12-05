@@ -20,11 +20,11 @@
         }
         #canvas {
             display: grid;
-            /* 10列のマス目を作成 */
-            grid-template-columns: repeat(12, 30px);
-            width: 360px; 
+            /* 16列のマス目を作成 */
+            grid-template-columns: repeat(16, 32px);
+            width: 512px; 
             /* 12マス × 30px */
-            height: 360px;
+            height: 512px;
             border: 1px solid #333;
             margin: 16px auto;
         }
