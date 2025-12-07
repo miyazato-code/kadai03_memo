@@ -23,5 +23,5 @@
 `git config user.email` "<匿名のメールアドレス>"
 
 [参考記事]
-- https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Scripting/JSON
+- [JSONの操作](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Scripting/JSON)
 
